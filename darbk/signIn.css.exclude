@@ -1,0 +1,37 @@
+body{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 0 ;
+    margin: 0;
+    width: 100%;
+}
+.signInContener{
+    background-color: rgb(28, 128, 215);
+    width: 700px; /* Fixed width in pixels */
+    height: 700px; /* Fixed height in pixels */
+    margin: auto;
+    
+}
+.gradient-custom {
+     
+    background: #6a11cb;
+    
+     
+     background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1)); 
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1)) 
+   
+    }
+    #cont {
+        width: 500px;
+        height: 700px;
+        margin: auto;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+    }

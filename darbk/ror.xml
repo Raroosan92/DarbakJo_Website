@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.darbakjo.com/</title>
+  <link>http://www.darbakjo.com/</link>
+
+<item>
+     <link>http://www.darbakjo.com/</link>
+     <title>منصةدربك - Darbakjo.com</title>
+     <description>منصة دربك  للتعليم الألكتروني وحصص الأونلاين في المملكة الأردنية الهاشمية</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.darbakjo.com/Home.html</link>
+     <title>منصةدربك - Darbakjo.com</title>
+     <description>منصة دربك  للتعليم الألكتروني وحصص الأونلاين في المملكة الأردنية الهاشمية</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.darbakjo.com/matiral.html</link>
+     <title>المواد</title>
+     <description>المواد</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.darbakjo.com/sections.html</link>
+     <title>الفروع</title>
+     <description>الفروع</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

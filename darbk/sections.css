@@ -1,0 +1,100 @@
+body {
+  height: 100vh;
+  direction: rtl;
+}
+.bg-body-tertiary {
+  --bs-bg-opacity: 0;
+  background-color: rgba(var(--bs-tertiary-bg-rgb),var(--bs-bg-opacity))!important;
+}
+.container-fluid {
+  align-items: center ;
+  padding: 10px;
+  background-color: #edf5f5;
+}
+.sections {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sectionCard {
+  margin: 10px;
+  width: 400px;
+  height: 400px;
+  border: 2px solid rgba(0, 0, 0, 0.42);
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+#scientificSection{
+    background-image: url("images/science\ 11.png");
+}
+#adabiSection{
+    background-image: url("images/literature.png");
+}
+#commonSection{
+    background-image: url("images/moshtarak.png");
+}
+.sectionCard:hover {
+  box-shadow: 0 0 10px black;
+}
+
+.signIn{
+    background-color:  rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+  width: 130x;
+  height: 50px;
+  font-family: 'El Messiri', sans-serif;
+  font-weight: bold;
+  border-radius: 4px;
+  border: none;
+  transition: after 0.5s;
+}
+
+.signIn span{
+ cursor: pointer;
+ display: inline-block;
+ position: relative;
+ transition: 0.5s;
+}
+.signIn span:after {
+ content: '\00bb';
+ position: absolute;
+ opacity: 0;
+ top: 0;
+ right: -20px;
+ transition: 0.5s;
+} 
+.signIn:hover span {
+  padding-right: 25px;
+}
+.signIn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.liItems li {
+  margin: 0 8px;
+}
+.liItems li :hover {
+color: black;
+}
+
+.slide img {
+  height: 90vh;
+  border-radius:16px ;
+}
+
+.select1{
+  background-color:#FFDE59;
+  width: fit-content;
+  padding: 20px;
+  font-family: 'El Messiri', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius:  5px;
+  border: solid 0.5px;
+  margin-top: 30px;
+
+}
