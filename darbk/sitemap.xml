@@ -8,24 +8,39 @@
 
 
 <url>
-  <loc>http://www.darbakjo.com/</loc>
-  <lastmod>2024-03-17T17:55:51+00:00</lastmod>
+  <loc>https://www.darbakjo.com/</loc>
+  <lastmod>2024-04-04T13:29:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.darbakjo.com/Home.html</loc>
-  <lastmod>2024-03-17T17:55:51+00:00</lastmod>
+  <loc>https://www.darbakjo.com/Home.html</loc>
+  <lastmod>2024-04-04T13:29:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.darbakjo.com/matiral.html</loc>
-  <lastmod>2024-03-16T23:40:48+00:00</lastmod>
+  <loc>https://www.darbakjo.com/NoMat.html</loc>
+  <lastmod>2024-03-29T01:00:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.darbakjo.com/sections.html</loc>
-  <lastmod>2024-03-16T22:41:59+00:00</lastmod>
+  <loc>https://www.darbakjo.com/sections.html</loc>
+  <lastmod>2024-04-03T17:46:52+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.darbakjo.com/scienceSection.html</loc>
+  <lastmod>2024-04-03T17:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.darbakjo.com/literarySection.html</loc>
+  <lastmod>2024-04-03T17:46:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.darbakjo.com/commonSections.html</loc>
+  <lastmod>2024-04-03T17:46:52+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

@@ -1,4 +1,7 @@
-http://www.darbakjo.com/
-http://www.darbakjo.com/Home.html
-http://www.darbakjo.com/matiral.html
-http://www.darbakjo.com/sections.html
+https://www.darbakjo.com/
+https://www.darbakjo.com/Home.html
+https://www.darbakjo.com/NoMat.html
+https://www.darbakjo.com/sections.html
+https://www.darbakjo.com/scienceSection.html
+https://www.darbakjo.com/literarySection.html
+https://www.darbakjo.com/commonSections.html
