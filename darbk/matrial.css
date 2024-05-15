@@ -45,6 +45,14 @@ direction: rtl;
     margin-right: 10%;
     margin: auto;
     padding:10px;
+    font-size: 79%;
+    margin-bottom: 5px;
+  }
+  @media (max-width: 500px) {
+    .flip-card-back div div{
+      font-size: 60%;
+
+    }
   }
  .flip-card-front  img {
     border-radius: 15px;
